@@ -1,6 +1,6 @@
 # Arabic Emotion Cause Extraction Corpus
+<p align="justify"><strong>Emotion cause extraction is a challenging task nowadays. Causes behind emotions are extracted from textual data.This is a dialectal Arabic annotated corpus built for the purpose of emotion cause extraction. The data collected from many resources.The corpora in this field are limited. There are some corpora built for western languages like English and far east languages like Chinese. Arabic language resources in this field are very limited.</strong></p>
 
- <strong>Emotion cause extraction is a challenging task nowadays. Causes behind emotions are extracted from textual data.This is a dialectal Arabic annotated corpus built for the purpose of emotion cause extraction. The data collected from many resources.The corpora in this field are limited. There are some corpora built for western languages like English and far east languages like Chinese. Arabic language resources in this field are very limited.</strong>
 
 
 ## <em>Citation</em>: 
