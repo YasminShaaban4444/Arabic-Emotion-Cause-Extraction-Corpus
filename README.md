@@ -3,7 +3,7 @@
 
 
 
-## <em>Citation</em>: 
+## Citation: 
 
 Y. Shaaban, H. Korashy, and W. Medhat, "Arabic emotion cause extraction using deep learning," Egypt. J. Lang. Eng., vol. 9, no. 2, pp. 23–39, 2022, doi: 10.21608/ejle.2022.150056.1032.
 
